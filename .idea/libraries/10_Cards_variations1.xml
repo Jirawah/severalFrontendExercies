@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="10_Cards-variations1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cardsVariations/10_Cards-variations/01_textBlockAppear.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cardsVariations/10_Cards-variations/03_responsive-outline-image.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cardsVariations/10_Cards-variations/04_userOptionMenu.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cardsVariations/10_Cards-variations/02_blur-style.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cardsVariations/10_Cards-variations/05_flexCards.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

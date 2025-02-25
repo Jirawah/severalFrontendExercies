@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="03_cards-basiques">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cardsBasiques/03_cards-basiques.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

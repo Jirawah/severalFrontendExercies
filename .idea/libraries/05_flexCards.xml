@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="05_flexCards">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flexCards/05_flexCards.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
