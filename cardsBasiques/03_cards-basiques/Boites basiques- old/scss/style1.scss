@@ -1,0 +1,15 @@
+@use 'general';
+@use 'variables';
+
+.Wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.Wrapper-card {
+    width: auto;
+    height: auto;
+}
+
+

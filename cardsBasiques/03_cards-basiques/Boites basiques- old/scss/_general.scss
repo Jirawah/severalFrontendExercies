@@ -1,0 +1,10 @@
+@use 'variables';
+
+body {
+    background-color: variables.$bgColor;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0 20px;
+}

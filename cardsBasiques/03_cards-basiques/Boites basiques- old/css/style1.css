@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 0 20px;
+}
+
+.Wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.Wrapper-card {
+  width: auto;
+  height: auto;
+}
+
+/*# sourceMappingURL=style1.css.map */
